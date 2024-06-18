@@ -2,6 +2,14 @@
 import styled from "styled-components";
 import chair from "../../assets/image/h1-slide1-img.png";
 
+// changes made by Joe
+// const hero = () => {
+
+//     return(
+//         <>
+//         </>
+//     )
+// };
 
 const Hero = () => {
 
