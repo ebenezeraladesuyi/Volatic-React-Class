@@ -155,3 +155,11 @@ display: flex;
 justify-content: space-between;
 flex-wrap: wrap;
 `;
+
+// const HeadHolder = styled.section`
+// width: 100%;
+// margin-top: 30px;
+// display: flex;
+// justify-content: space-between;
+// flex-wrap: wrap;
+// `;
