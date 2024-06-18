@@ -1,7 +1,7 @@
 
 import Shop from "./Shop"
 import Hero from "./Hero"
-// import Shop2 from "./Shop2"
+import Shop2 from "./Shop2"
 
 
 const HomeComp = () => {
@@ -9,7 +9,7 @@ const HomeComp = () => {
     <div>
         <Hero />
         <Shop />
-        {/* <Shop2 /> */}
+        <Shop2 />
     </div>
   )
 }
